@@ -4,9 +4,14 @@
   margin-left: 140px;
   margin-top: 25px
 }
-.navigation {
+.navigation  {
   border : 20px solid #00ADEE;
   margin-top: 20px;
+  background-color: #00ADEE
+}
+.navigation h1 {
+  text-align: center;
+  font-family: 'dry brush' ;
 }
 body{
     margin: 0;
