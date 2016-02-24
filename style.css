@@ -12,10 +12,13 @@ body{
     margin: 0;
     padding: 0;
 }
+.container{
+  background-color: #00ADEE;
+}
 .presentation{
   text-align: center;
   font-size: 40px;
-  font-family: verdana
+  font-family: 'Verdana Bold Italic'
 }
 
 #slider{
@@ -27,7 +30,7 @@ body{
     margin-bottom: 5px;
     border-radius: 10px;
     text-align: center;
-
+background-color: white;
 }
 
 #slider ul{
@@ -46,5 +49,4 @@ span#legend{
 }
 img{
   width: 500px;
-  height: 500px;
 }
