@@ -26,6 +26,7 @@ body{
     border: 5px solid blue;
     margin-bottom: 5px;
     border-radius: 10px;
+    text-align: center;
 
 }
 
@@ -42,4 +43,7 @@ body{
 span#legend{
     display: block;
     text-align: center;
+}
+img{
+  width: 500px;
 }
