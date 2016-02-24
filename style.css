@@ -1,0 +1,38 @@
+.logo img{
+  width: 320px;
+  height: 48px;
+  margin-left: 140px;
+  margin-top: 25px
+}
+.navigation {
+  border : 20px solid #00ADEE;
+  margin-top: 20px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#slider{
+    margin: 0 auto;
+    width: 440px;
+    height: 450px;
+    margin-top: 50px;
+    border: 5px solid blue;
+    margin-bottom: 5px
+}
+
+#slider ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#slider ul li{
+    display: none;
+}
+
+span#legend{
+    display: block;
+    text-align: center;
+}
